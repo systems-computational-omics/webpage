@@ -1,5 +1,5 @@
 # Systems Computational Omics @MSU
-Main webpage hosted at https://omics.natsci.msu.edu/
+Main webpage hosted at <https://omics.natsci.msu.edu/>
 
 [Mission statement and member details](https://github.com/systems-computational-omics/webpage/blob/master/MSU-SystemsComputationalOmics.pdf)
 
